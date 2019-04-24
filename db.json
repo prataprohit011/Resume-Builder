@@ -1,0 +1,53 @@
+{
+  "personal": [
+    {
+      "firstName": "Rohit",
+      "lastName": "Singh",
+      "email": "prataprohit011@gmail.com",
+      "mobile": "8882555812",
+      "Address": "Sector-52",
+      "City": "Noida",
+      "State": "UP",
+      "Pincode": "201301",
+      "id": 1
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "Address": "",
+      "City": "",
+      "State": "",
+      "Pincode": "",
+      "id": 2
+    }
+  ],
+  "academic": [
+    {
+      "Degree": "B.tech",
+      "University": "DU",
+      "CGPA": "9",
+      "Year": "2019",
+      "id": 1
+    },
+    {
+      "Degree": "",
+      "University": "",
+      "CGPA": "",
+      "Year": "",
+      "id": 2
+    }
+  ],
+  "work": [
+    {
+      
+    }
+  ],
+  "skills": [
+    {}
+  ],
+  "project": [
+    {}
+  ]
+}
